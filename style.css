@@ -402,12 +402,15 @@ body {
 
 /*---home button---*/
 .home{
-  bottom: 50px;
-  image-align: left;
+  image-align: right;
   padding: 20px;
+  top: 10px;
+  left: 90%;
+  display: block;
+  position: absolute;
 }
 
-/*---welcome page gallery---*/
+/*---gallery---*/
 
 .gallery {
   margin: 20px;
