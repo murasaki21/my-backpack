@@ -402,8 +402,8 @@ body {
 
 /*---home button---*/
 .home{
-  image size: 70px;
-  image-align: right;
+  bottom: 50px;
+  image-align: left;
   padding: 20px;
 }
 
