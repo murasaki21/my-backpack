@@ -432,3 +432,9 @@ body {
   text-align: center;
   text-color: #FFd6FF;
 }
+
+/*---sketchbook_page---*/
+#sketchbook_page{
+  height: 100%;
+  width: 100%;
+}
